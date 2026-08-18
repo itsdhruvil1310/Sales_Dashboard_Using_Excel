@@ -99,3 +99,4 @@ The dashboard helps users:
 
 ## 📷 Dashboard Preview
 
+![image alt](https://github.com/itsdhruvil1310/Sales_Dashboard_Using_Excel/blob/55cd266b99018f5740d74740f8f8ebf5f2ecd472/Sales_Dashboard.png)
